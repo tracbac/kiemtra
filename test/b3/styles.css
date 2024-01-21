@@ -89,7 +89,7 @@ body{
     
     margin-top: 20px;
     width: 90%;
-    height: 500px;
+    height: 520px;
     background-color:#ffffff;
     align-items: center;
     position: absolute;
@@ -106,7 +106,7 @@ body{
     overflow: hidden;
     background-color: #ffffff;
     width: 400px;
-    height: 230px;
+    height: 210px;
     transition: transform 0.3s ease;
 }
 .user:hover{
